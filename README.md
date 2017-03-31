@@ -1,9 +1,9 @@
-# messageboard
+# Message Board
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+The message board application allows for a Q&A type of environment for asking questions and giving or receiving answers.
+The author is none other than (Al Aganya)[https://github.com/aganyaal]
 
-## Prerequisites
+## Prerequisites(requirements)
 
 You will need the following things properly installed on your computer.
 
@@ -39,9 +39,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 

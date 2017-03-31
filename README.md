@@ -1,7 +1,7 @@
 # Message Board
 
 The message board application allows for a Q&A type of environment for asking questions and giving or receiving answers.
-The author is none other than (Al Aganya)[https://github.com/aganyaal]
+The author is none other than [Al Aganya](https://github.com/aganyaal)
 
 ## Prerequisites(requirements)
 

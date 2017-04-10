@@ -1,2 +1,8 @@
-{{outlet}}
-<p class="meso">My name is:{{input }}</p>
+<h2>These are the questions so far:</h2>
+
+  {{#each model.questions as |question|}}
+    {{question-tile question=question}}
+  {{/each}}
+<br>
+
+{{new-question saveQuestion2="saveQuestion3"}}

@@ -1,7 +1,9 @@
-.meso{
-  color: red;
-  font-family: 'Revalia', cursive;
+.navbar {
+  background-color: white;
+  text-align: center;
+  color: black;
 }
-.well{
-  background-color:#d3d4ff;
+body {
+  background-color: #c0c0c0;
+  text-align: center;
 }

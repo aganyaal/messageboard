@@ -1,0 +1,21 @@
+{ "questions": [{
+    "content": "What color my name?",
+    "author": "Al Aganya",
+    "notes": "a really dumb question"
+  }, {
+    "content": "How many people live in Nairobi?",
+    "author": "Savanah Kunovsky",
+    "notes": "City Population"
+  }, {
+    "content": "How old is Moringa?",
+    "author": "Ephy G",
+    "notes": "Curious"
+  }],
+  "answers": [{
+    "answer_author": "Al",
+    "answer_content": "Al Aganya."
+  }, {
+    "answer_author": "Alex",
+    "answer_content": "600,000"
+  }]
+}

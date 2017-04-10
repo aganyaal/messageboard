@@ -1,0 +1,4 @@
+<h2>{{model.author}}'s question: {{model.content}}</h2>
+{{update-question question=model update="update"}}
+{{question-detail question=model destroyQuestion="destroyQuestion"}}
+{{new-answer saveAnswer="saveAnswer" question=model}}

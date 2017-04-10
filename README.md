@@ -1,9 +1,9 @@
-# Message Board
+# question-answer
 
-The message board application allows for a Q&A type of environment for asking questions and giving or receiving answers.
-The author is none other than [Al Aganya](https://github.com/aganyaal)
+Creates a question and answer message board where a user submits a question and other users can respond with answers.
+Author: [Al Aganya](https://github.com/aganyaal)
 
-## Prerequisites(requirements)
+## Prerequisites
 
 You will need the following things properly installed on your computer.
 
@@ -11,12 +11,11 @@ You will need the following things properly installed on your computer.
 * [Node.js](https://nodejs.org/) (with NPM)
 * [Bower](https://bower.io/)
 * [Ember CLI](https://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd messageboard`
+* `download ZIP file`
+* `Extract to a location of your choice`
 * `npm install`
 * `bower install`
 
